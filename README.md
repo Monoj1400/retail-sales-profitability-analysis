@@ -9,8 +9,7 @@ The goal is to move beyond sales reporting and identify where the business gener
 ## Dashboard Preview
 
 ### 1. Sales Overview
-
-![Retail Sales Overview Dashboard](screenshots/sales_overview.png)
+<img width="1220" height="683" alt="sales_overview" src="https://github.com/user-attachments/assets/e2e18dc4-5d8c-44c6-bf4c-90f928f48195" />
 
 This dashboard provides a high-level view of business performance through key metrics, category comparisons, monthly sales patterns, discount analysis, and regional profitability.
 
@@ -23,8 +22,7 @@ This dashboard provides a high-level view of business performance through key me
 
 ### 2. Profitability Deep Dive
 
-![Retail Profitability Deep Dive Dashboard](screenshots/profitability_deep_dive.png)
-
+<img width="1220" height="683" alt="profitability_deep_dive" src="https://github.com/user-attachments/assets/c272a13b-59a8-4998-bce3-5718b6fa004d" />
 This dashboard investigates profitability at a more detailed level, highlighting differences between product subcategories, loss-making products, and profit margins.
 
 ## Business Questions
@@ -131,5 +129,3 @@ The analysis identifies patterns and areas for investigation; the recommendation
 
 Data Analytics | SQL | Power BI | DAX
 
-<img width="1220" height="683" alt="sales_overview" src="https://github.com/user-attachments/assets/e2e18dc4-5d8c-44c6-bf4c-90f928f48195" />
-<img width="1220" height="683" alt="profitability_deep_dive" src="https://github.com/user-attachments/assets/c272a13b-59a8-4998-bce3-5718b6fa004d" />
